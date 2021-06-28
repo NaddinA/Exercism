@@ -24,7 +24,7 @@ namespace rna_transcription
   // then return modified DNA.
   string to_rna(string DNA) 
   {
-    for (char nucleotide : DNA) 
+    for (char& nucleotide : DNA) 
     {
       nucleotide = to_rna(nucleotide);
     }
