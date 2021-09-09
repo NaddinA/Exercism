@@ -1,4 +1,5 @@
-# Eyerape for you Python-lovers right here:
+# SRC: https://exercism.org/tracks/python/exercises/ghost-gobble-arcade-game
+# Eyerape for you Python-lovers right here!
 
 def eat_ghost(power_pellet_active, touching_ghost):
     """
