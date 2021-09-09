@@ -1,4 +1,5 @@
 # did u just click a file called lasagna.py? Lmao       anyway... enjoy lasagna
+# SRC: https://exercism.org/tracks/python/exercises/guidos-gorgeous-lasagna
 
 EXPECTED_BAKE_TIME = 40
 PREPARATION_TIME = 40
